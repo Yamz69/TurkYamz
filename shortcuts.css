@@ -1,0 +1,114 @@
+h1 {
+  text-align: center;
+  font-size: 7vw;
+  color: #B4C9E4;
+  font-wieght: bold;
+  font-family: "Titillium Web", sans-serif;
+}
+
+h2 {
+  padding-left: 10%;
+  color: #B4C9E4;
+  font-size: 3vw;
+}
+
+body {
+  background-color: #343A40;
+  padding: 3%;
+  margin-top: 25px;
+}
+
+.topnav {
+  background-color: #535C65;
+  overflow: hidden;
+}
+
+.btn-1 {
+  border: none;
+  font-weight: bold;
+  color: white;
+  padding: 19px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  background-color: #535C65;
+  position: absolute;
+  left: 10px;
+  top: 10px;
+  border-radius: 100px;
+  width: 100px;
+}
+
+.btn-1 {
+  transition-duration: 0.4s;
+}
+
+.btn-1:hover {
+  background-color: #C1C2C2;
+  color: white;
+}
+
+button {
+  background-color: #535C65;
+  width: 33.3%;
+  cursor: pointer;
+}
+
+.topnav button {
+  float: left;
+  color: #B4C9E4;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 4vw;
+  border-width: 0px;
+  overflow: hidden;
+  display: block;
+}
+
+.topnav button:hover {
+  color: #497BBD;
+  transition-duration: 0.4s;
+}
+
+table {
+  border-collapse: collapse;
+  width: 80%;
+  margin: auto;
+}
+
+th {
+  background-color: #ADADAD;
+  font-size: 2.5vw;
+}
+
+td {
+  font-size: 2vw;
+}
+
+th,
+td {
+  text-align: left;
+  padding: 8px;
+  text-align: center;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+tr:nth-child(odd) {
+  background-color: #E1E1E1;
+}
+
+h3 {
+  color: orange;
+  font-size: 3vw;
+}
+
+img {
+  width: 3vw;
+}

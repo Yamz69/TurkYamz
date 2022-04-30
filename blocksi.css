@@ -1,0 +1,106 @@
+h1 {
+  text-align: center;
+  font-size: 7vw;
+  color: #B4C9E4;
+  font-wieght: bold;
+  font-family: "Titillium Web", sans-serif;
+}
+
+body {
+  background-color: #343A40;
+  padding: 3%;
+}
+
+h3 {
+  color: red;
+  font-size: 40px;
+  text-align: center;
+}
+
+h2 {
+  color: royalblue;
+  text-align: center;
+}
+
+p {
+  color: #FF990A;
+  font-size: 27px;
+}
+
+img {
+  width: 50%;
+  display: block;
+  margin: auto;
+}
+
+h4 {
+  color: #9F33FF;
+  font-size: 34px;
+  position: relative;
+  top: 50px;
+}
+
+h5 {
+  color: #FF0064;
+  font-size: 30px;
+  position: relative;
+  text-align: center;
+  top: -115px;
+}
+
+.btn-1 {
+  border: none;
+  font-weight: bold;
+  color: white;
+  padding: 19px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  background-color: #535C65;
+  position: absolute;
+  left: 2%;
+  top: 3%;
+  border-radius: 100px;
+  width: 100px;
+}
+
+.btn-1:hover {
+  transition-duration: 0.4s;
+  background-color: #C1C2C2;
+  color: white;
+}
+
+button {
+  border: none;
+  font-weight: bold;
+  padding: 2vw 20px;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+  font-size: 2vw;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  background-color: red;
+  position: relative;
+  border-radius: 7px;
+  margin: auto;
+}
+
+button:hover {
+  transition-duration: 0.4s;
+  background-color: #BA2655;
+  color: white;
+}
+
+table {
+  width: 100%;
+}
+
+td {
+  width: 50%;
+}
